@@ -6,20 +6,33 @@
 
 ## **primary stage**
 > Business Name
+
 > Profile
+
 > Phone Number
+
 > Address
+
 > Website
+
 > Rating
+
 > Review Count
+
 
 ## **secondary stage**
 > Catagories
+
 > Neighborhoods
+
 > Extra Phones
+
 > e-mail
+
 > Other Links
+
 > Social Media
+
 
 > all the info scraped will be joined in one csv file at the end of the scraping process.
 
