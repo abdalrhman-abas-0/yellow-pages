@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-language": "en,ar-EG;q=0.9,ar;q=0.8,en-US;q=0.7",
+    "sec-ch-ua": "\"Chromium\";v=\"106\", \"Google Chrome\";v=\"106\", \"Not;A=Brand\";v=\"99\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "cookie": "vrid=242da335-3256-4f10-862f-787fada697ec; zone=120; AMCVS_A57E776A5245AEA80A490D44%40AdobeOrg=1; s_ecid=MCMID%7C02244535507617763731799395118448035948; s_cc=true; _ga=GA1.2.1422191515.1665430040; s_prop70=October; s_prop71=42; sorted=false; s_nr=1665430369609; location=geo_term%3ACA%7Clat%3A37.166111%7Clng%3A-119.449444%7Ccity%3A%7Cstate%3ACA%7Cdisplay_geo%3ACA; search_terms=new%20car%20dealer; s_sq=%5B%5BB%5D%5D; _gid=GA1.2.1784080457.1666518233; bucket=ypu%3Aypu%3Adefault; bucketsrc=default; express:sess=eyJka3MiOiJlZWY4ZjdmZi1lZGQzLTQzN2EtOGU0OS01NTcyMWViZDUwYjgiLCJmbGFzaCI6e319; express:sess.sig=oiqXjeb--eCju6SuAUlo9r-8p10; AMCV_A57E776A5245AEA80A490D44%40AdobeOrg=-1303530583%7CMCIDTS%7C19289%7CMCMID%7C02244535507617763731799395118448035948%7CMCAAMLH-1667229022%7C7%7CMCAAMB-1667229022%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1666631422s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C3.3.0; s_tp=2495; _gat=1; s_ppv=home_main%2C39%2C39%2C981"
+  },
+  "break": false,
+  "nap": 5
+}
+
